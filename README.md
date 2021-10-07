@@ -1,4 +1,5 @@
 # LatihanKotlin
+Repo para pencari baju hacktober
 
 ## Contributor
 - auliamnaufal [Github](https://github.com/auliamnaufal)
