@@ -6,5 +6,6 @@
 - devin [Github](https://github.com/mdevarrysd)
 - Althaaf [Github](https://github.com/Althaafzz)
 - Althaaf [Github](https://github.com/miqdad08)
- 
+- Miqdad2  [Github](https://github.com/Xoxoes)
+
 
