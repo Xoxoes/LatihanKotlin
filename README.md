@@ -1,12 +1,10 @@
 # LatihanKotlin
-Repo para pencari baju hacktober
 
 ## Contributor
 - auliamnaufal [Github](https://github.com/auliamnaufal)
 - fathan [Github](https://github.com/Fathkim)
 - devin [Github](https://github.com/mdevarrysd)
 - Althaaf [Github](https://github.com/Althaafzz)
-- Althaaf [Github](https://github.com/miqdad08)
-- Miqdad2 [Github](https://github.com/Xoxoes)
- 
+- Miqdad Autis [Github](https://github.com/miqdad08)
+- Danish Maula [GIthub](https://github.com/DanishMaula) 
 
